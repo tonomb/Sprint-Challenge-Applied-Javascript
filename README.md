@@ -30,32 +30,42 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    The DOM is short for Document Object Model.  It´s everything that you see on a page, it´s created in a treelike structure where you can access every node.
+
 2. What is an event?
+
+    An event is something that happens on the page. A type of interaction that the user makes.
 
 3. What is an event listener?
 
+    An even listener is a method you can call on any element in the DOM where you are listening for an event and then performing an action on the page bases of that event.
+
 4. Why would we convert a NodeList into an Array?
+
+    You can create a NodeList into an Array so you can access the built in methods of arrays lice reduce and map.
 
 5. What is a component?
 
+    A component is a block of reusable code that gets "Hydrated" by an API.  
+
 ### Git Set up
 
-* [ ] Fork the project into your GitHub user account
-* [ ] Clone the forked project into a directory on your machine
-* [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
-* [ ] You are now ready to build this project with your preferred IDE
+* [+] Fork the project into your GitHub user account
+* [+] Clone the forked project into a directory on your machine
+* [+] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
+* [+] You are now ready to build this project with your preferred IDE
 
 ## Minimum Viable Product
 
 Your finished project must include all of the following requirements:
 
-* [ ] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the HTML file itself.
+* [+] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the HTML file itself.
 
-* [ ] Following the instructions in the `Header/index.js` file, create the Header component.
+* [+] Following the instructions in the `Header/index.js` file, create the Header component.
 
-* [ ] Following the instructions in the `Tabs/index.js` file, create individual Tabs components.
+* [+] Following the instructions in the `Tabs/index.js` file, create individual Tabs components.
 
-* [ ] Following the instructions in the `Cards/index.js` file, create individual Cards components.
+* [+] Following the instructions in the `Cards/index.js` file, create individual Cards components.
 
 ## Stretch Problems
 
