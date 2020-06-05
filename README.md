@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    The DOM is short for Document Object Model.  It´s everything that you see on a page, it´s created in a treelike structure where you can access every node.
+
 2. What is an event?
+
+    An event is something that happens on the page. A type of interaction that the user makes.
 
 3. What is an event listener?
 
+    An even listener is a method you can call on any element in the DOM where you are listening for an event and then performing an action on the page bases of that event.
+
 4. Why would we convert a NodeList into an Array?
 
+    You can create a NodeList into an Array so you can access the built in methods of arrays lice reduce and map.
+
 5. What is a component?
+
+    A component is a block of reusable code that gets "Hydrated" by an API.  
 
 ### Git Set up
 
